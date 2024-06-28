@@ -2,28 +2,37 @@
 
 ---
 
-### Category Name 1 
+### Project Features 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Boston MBTA Subway Reliability Study](/sample_page)
+<img src="images/service_alerts.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Boston 311 Level of Service Study](/pdf/sample_presentation.pdf)
+<img src="images/wait_times.png?raw=true"/>
+
+---
+[Boston Transportation Equity Geospatial Study](http://example.com/)
+<img src="images/ssm_output.png?raw=true"/>
 
 ---
 
-### Category Name 2
+### Data Visualizations
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+#### Amy's Timeline
+<img src="images/amys_timeline.png?raw=true"/>
+
+#### Boston's Transit Accessible Areas
+<img src="images/Commute_Proj3_v4.png?raw=true"/>
+
+#### Boston's Busiest Morning Corridors
+<img src="images/BostonsCorridors_Proj3.png?raw=true"/>
+
+#### MBTA Ridership Across Modes
+<img src="images/MBTARidership_Proj3.png?raw=true"/>
+
+#### Ski Resorts I've Visited
+<img src="images/MySkiResorts.png?raw=true"/>
 
 ---
 
