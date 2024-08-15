@@ -1,13 +1,12 @@
 # Project #2
 
 [Boston 311 Level of Service Presentation](/pdf/PPUA_5262_Final_PPT.pdf){:target="_blank"}
-<img src="images/wait_times.png?raw=true"/>
 
 ### Problem Statement
 
 Between the years 2020 and 2021, there were over 600,000 requests submitted to Boston’s 311 Service. This service records data for each ticket request. The metrics recorded include the case ID, the opened ticket date, the date the ticket was closed, the location information including the neighborhood, census tract, block group, block, and property ID, as well as the ticket type or reason and categories for those ticket types. This information helps a city understand the status of non-emergency issues to alleviate calls to 911 and also help distribute city resources according to current needs. The purpose of this analysis is to uncover any inequities in the level of service being experienced by Boston block groups. Is there a relationship between the wait times of certain 311 tickets and the demographics of different Boston Census Tracts?
 
-MBTA Subway Alert Types
+311 Service Ticket Types
 <img src="images/project2tickettypes.png?raw=true"/>
 
 ### Urban Informatics Methods
@@ -23,5 +22,5 @@ The purpose of this analysis was to understand which 311 ticket types had longer
 
 There is more to level of service than just comparing wait times between block groups. Customer service is an important metric for the department in charge of running the service to understand what the needs of the city are, where the different issues exist or persist over time, how needs change over time, and how well the city performs at meeting those needs. The data describing service levels and performance can also be used to hold different city departments accountable for addressing different issues in a more timely manner than before the data was available. With improved accountability, resident satisfaction with the 311 service would then be expected to improve as well. Using CRM (customer relationship management), cities can begin to monitor, measure, and analyze services at the city or departmental level so city managers can know for  certain whether they are hitting service-level targets.
 
-Service Alert Counts by Station Map
+Average Duration for Rodent Activity Tickets Map
 <img src="images/project2rodentmap.png?raw=true"/>

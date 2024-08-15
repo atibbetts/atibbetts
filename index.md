@@ -2,7 +2,7 @@
 
 ---
 
-Mechanical Engineer turned Data Analyst/Engineer/Scientist with 8+ years of experience in Advanced Driver Assistance Systems, self-driving vehicles, and transportation. 2+ years of experience harnessing data to drive strategic decisions in transportation and urban planning. My expertise includes translating complex metrics into actionable insights and empowering clients to make informed decisions. My passion is crafting strategies that shape equitable, safe, and forward-thinking urban landscapes as well as informing policy and improving processes. This website highlights projects I completed at Northeastern University throughout my studies in the Urban Informatics Master's program.
+Mechanical Engineer turned Data Analyst/Engineer/Scientist with 8+ years of experience in Advanced Driver Assistance Systems, self-driving vehicles, and transportation. 2+ years of experience harnessing data to drive strategic decisions in transportation and urban planning. My expertise includes translating complex metrics into actionable insights and empowering clients to make informed decisions. My passion is crafting strategies that shape equitable, safe, and forward-thinking urban landscapes as well as informing policy and improving processes. This website highlights projects I completed at Northeastern University throughout my studies in the Urban Informatics Master's program with a focus in Transportation and Infrastructure.
 
 ## Top Skills
 

@@ -33,6 +33,8 @@ Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolor
 ## Amy's Timeline
 <img src="images/amys_timeline.png?raw=true"/>
 
+[![amys_timeline](amys_timeline.png)](images/amys_timeline.png?raw=true)
+
 ## Boston's Transit Accessible Areas
 <img src="images/Commute_Proj3_v4.png?raw=true"/>
 
