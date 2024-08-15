@@ -15,15 +15,14 @@ Python, R, ArcGIS Pro, SQL, Power BI, Tableau
 ## Project Features 
 
 ### Project #1
-
 [Boston MBTA Subway Reliability Study](https://atibbetts.github.io/atibbetts/project1)
 <img src="images/service_alerts.png?raw=true"/>
 
 The frequency of service disruptions is a factor of resiliency, measuring Boston’s ability to keep its residents moving, provide economic and social opportunity, and enhance quality of life. This study seeks to understand if there is a correlation between frequency of service disruptions and different demographics at each subway station. Frequent service alerts may disproportionately impact vulnerable rider demographics, thereby hindering the overall resiliency of the public transportation system.
+
 ---
 
 ### Project #2
-
 [Boston 311 Level of Service Study](https://atibbetts.github.io/atibbetts/project2)
 <img src="images/wait_times.png?raw=true"/>
 
