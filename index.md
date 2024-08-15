@@ -14,34 +14,27 @@ Python, R, ArcGIS Pro, SQL, Power BI, Tableau
 
 ## Project Features 
 
-### Project #1
-[Boston MBTA Subway Reliability Study](https://atibbetts.github.io/atibbetts/project1)
+### [Project #1 Boston MBTA Subway Reliability Study](https://atibbetts.github.io/atibbetts/project1)
+
 <img src="images/service_alerts.png?raw=true"/>
 
 The frequency of service disruptions is a factor of resiliency, measuring Boston’s ability to keep its residents moving, provide economic and social opportunity, and enhance quality of life. This study seeks to understand if there is a correlation between frequency of service disruptions and different demographics at each subway station. Frequent service alerts may disproportionately impact vulnerable rider demographics, thereby hindering the overall resiliency of the public transportation system.
 
 ---
 
-### Project #2
-[Boston 311 Level of Service Study](https://atibbetts.github.io/atibbetts/project2)
+### [Project #2 Boston 311 Level of Service Study](https://atibbetts.github.io/atibbetts/project2)
+
 <img src="images/wait_times.png?raw=true"/>
 
 The Boston 311 service provides a system where residents can call or use an app to request nonemergency services from the city like fill potholes, remove graffiti, or fix a streetlight outage. After looking at the 311 dataset and the different variables, something that I thought would be useful to look into was the relationship between wait times and ticket types. To be more specific, I wanted to see if I could understand if there were differences in the level of service being experienced by the different block groups and if the difference in service levels could be explained by demographic data. The null hypothesis being that demographic metrics have no impact on the level of service, or wait times, experienced by Boston block groups.
 
 ---
 
-### Project #3
-[Boston Transportation Equity Geospatial Study](https://atibbetts.github.io/atibbetts/project3)
+### [Project #3 Boston Transportation Equity Geospatial Study](https://atibbetts.github.io/atibbetts/project3)
+
 <img src="images/ssm_output.png?raw=true"/>
 
 Boston can be a difficult city for traveling and commuting. The average commute time in the city of Boston using public transit is 49 minutes. There are inequities in Boston’s public transit offerings around the city regarding commute times, cost, proximity, availability, and reliability. Many Bostonians rely on public transportation to get them from point “A” to point “B” and have commutes much greater than the average. By analyzing different metrics, I aim to find specific locations to put “Pick-Up and Drop-off” points (or “PuDo” points) that would be used to implement self-driving taxi services. Self-driving taxis have the potential to help alleviate transportation strains in the parts of Boston that need it most. 
-    
----
-
-<!-- [Data Visualizations](/atibbetts/data_viz)
-
---- -->
-
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
