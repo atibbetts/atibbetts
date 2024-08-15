@@ -1,5 +1,5 @@
 ### Project #3
-[Boston Transportation Equity Geospatial Study](/pdf/PPUA_7237_Final_PPT.pdf){:target="_blank"}
+[Boston Transportation Equity Geospatial Presentation](/pdf/PPUA_7237_Final_PPT.pdf){:target="_blank"}
 
 ### Problem Statement
 

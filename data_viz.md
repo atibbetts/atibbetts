@@ -33,19 +33,27 @@ Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolor
 ## Amy's Timeline
 <img src="images/amys_timeline.png?raw=true"/>
 
-[![amys_timeline](amys_timeline.png)](images/amys_timeline.png?raw=true)
+[![amys_timeline](images/amys_timeline.png)](images/amys_timeline.png?raw=true){:target="_blank"}
 
 ## Boston's Transit Accessible Areas
 <img src="images/Commute_Proj3_v4.png?raw=true"/>
 
+[![Commute_Proj3_v4](images/Commute_Proj3_v4.png)](images/Commute_Proj3_v4.png?raw=true){:target="_blank"}
+
 ## Boston's Busiest Morning Corridors
 <img src="images/BostonsCorridors_Proj3.png?raw=true"/>
+
+[![BostonsCorridors_Proj3](images/BostonsCorridors_Proj3.png)](images/BostonsCorridors_Proj3.png?raw=true){:target="_blank"}
 
 ## MBTA Ridership Across Modes
 <img src="images/MBTARidership_Proj3.png?raw=true"/>
 
+[![MBTARidership_Proj3](images/MBTARidership_Proj3.png)](images/MBTARidership_Proj3.png?raw=true){:target="_blank"}
+
 ## Ski Resorts I've Visited
 <img src="images/MySkiResorts.png?raw=true"/>
+
+[![MySkiResorts](images/MySkiResorts.png)](images/MySkiResorts.png?raw=true){:target="_blank"}
 
 ---
 
