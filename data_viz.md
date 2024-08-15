@@ -28,21 +28,21 @@ if (isAwesome){
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.  -->
 
-## Data Visualizations
+# Data Visualizations
 
-### Amy's Timeline
+## Amy's Timeline
 <img src="images/amys_timeline.png?raw=true"/>
 
-### Boston's Transit Accessible Areas
+## Boston's Transit Accessible Areas
 <img src="images/Commute_Proj3_v4.png?raw=true"/>
 
-### Boston's Busiest Morning Corridors
+## Boston's Busiest Morning Corridors
 <img src="images/BostonsCorridors_Proj3.png?raw=true"/>
 
-### MBTA Ridership Across Modes
+## MBTA Ridership Across Modes
 <img src="images/MBTARidership_Proj3.png?raw=true"/>
 
-### Ski Resorts I've Visited
+## Ski Resorts I've Visited
 <img src="images/MySkiResorts.png?raw=true"/>
 
 ---

@@ -1,9 +1,9 @@
 title: Amy Tibbetts # y-newour name (or website title) here
 logo: "/images/logo_new.png" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Senior Transportation Data Analyst at <a href="https://www.kimley-horn.com/">Kimley Horn</a>
+  Senior Transportation Data Analyst at <a href="https://www.kimley-horn.com/" target="_blank">Kimley Horn</a>
   <br><br>
-  <a href="https://www.linkedin.com/in/amy-tibbetts-a276452b/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/amy-tibbetts-a276452b/" target="_blank">View My LinkedIn Profile</a> 
   <br><br>
   <a href="https://atibbetts.github.io/atibbetts/data_viz">Data Visualizations</a> 
   
