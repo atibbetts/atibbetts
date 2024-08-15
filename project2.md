@@ -1,6 +1,6 @@
 # Project #2
 
-[Boston 311 Level of Service Study](/pdf/PPUA_5262_Final_PPT.pdf){target="_blank"}
+[Boston 311 Level of Service Study](/pdf/PPUA_5262_Final_PPT.pdf){:target="_blank"}
 <img src="images/wait_times.png?raw=true"/>
 
 a. The problem or question you addressed

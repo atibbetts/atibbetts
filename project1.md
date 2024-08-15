@@ -1,6 +1,6 @@
 # Project #1
 
-[Boston MBTA Subway Reliability Presentation](/pdf/CIVE_7380_Final_PPT.pdf){target="_blank"}
+[Boston MBTA Subway Reliability Presentation](/pdf/CIVE_7380_Final_PPT.pdf){:target="_blank"}
 
 a. The problem or question you addressed
     > Is there a relationship between the number of service alerts at each subway station and the demographics of the community served?
